@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Aug  8 10:01:53 2020
-
+Updated on Thur Dec 28 
 @author: Nimesh
 """
 
@@ -60,7 +60,7 @@ def predict_note_auth():
 
 @app.route('/predict_file',methods=["POST"])
 def predict_note_file():
-    
+
     """Let's Authenticate the Banks Note 
     This is using docstrings for specifications.
     ---
